@@ -1,0 +1,88 @@
+.venue_details{
+    background-color: #ffff;
+    
+  }
+
+h1#l{
+    padding: 24px;
+    margin-left: 80px;
+    margin-bottom: -35px;
+    text-decoration: underline;
+
+}
+
+.left_txt{
+    width: 50%;
+    height: 250px;
+    text-align: justify;
+    float: left;
+    line-height: 1.5;
+    margin-left: 80px;
+    font-size: 18px;
+    padding: 20px;
+}
+.left_right{
+    width: 100%;
+    /* height: 250px; */
+    text-align: justify;
+    /* float: right; */
+    line-height: 1.5;
+    /* margin-left: 70px; */
+    /* margin-right: 40px; */
+    font-size: 18px;
+}
+.left_right h1{
+    margin-bottom: 1px;
+    margin-left: -25px;
+}
+.right_txt{
+        /* width: 50%; */
+    /* height: 250px; */
+    text-align: justify;
+    /* float: right; */
+    line-height: 1.5;
+    /* margin-left: 80px; */
+    font-size: 18px;
+    /* padding: 20px;*/
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-evenly;
+    padding-top: 40px;
+    padding-bottom: 120px;
+}
+.right_txt h1{
+    padding-bottom: 24px;
+    /* margin-left: 80px; */
+    margin-bottom: -35px;
+    text-decoration: underline;
+}
+#cont{
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.seat{
+    margin-left: 12%;
+    margin-top: 150px;
+
+}
+
+.seat p{
+    font-size: 20px;
+}
+
+.time{
+    margin-left: 580px;
+    margin-top: -85px;
+}
+.time h3{
+    margin-left: -25px;
+}
+
+.booking{
+    margin-left: 980px;
+    margin-top: -85px;
+}
+.booking  h3{
+    margin-left: -43px;
+}

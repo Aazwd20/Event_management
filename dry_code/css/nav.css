@@ -1,0 +1,30 @@
+/* com_user_box */
+.com_user_box{
+  display: flex;
+  padding: 15px 40px;
+}
+.card{
+  width: 280px;
+  height: 150px;
+  padding: 20px;
+  background: #28af07;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+.card p,h5{
+  color: #fff;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.card-icon{
+  display: flex;
+}
+.card-icon i{
+  margin: 15px;
+  position: center;
+  cursor: pointer;
+  font-size: 20px;
+  margin-right: 12.5rem;
+  color: aliceblue;
+}
